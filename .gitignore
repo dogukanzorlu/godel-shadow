@@ -1,0 +1,10 @@
+/.lake
+/lake-packages
+/build
+/leanpkg.path
+/leanpkg.toml
+/leanpkg.json
+/leanpkg.lock
+/leanpkg.toml
+/leanpkg.json
+/leanpkg.lock
