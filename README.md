@@ -1,3 +1,12 @@
+# Notice to Readers
+
+This repository has been established as part of a research study on synthetic a priori reasoning, with a particular focus on the behavior of artificial intelligence in intuitive arithmetic operations.
+While readers are welcome to identify and examine errors produced by the AI, no pull requests or external modifications will be accepted.
+Beyond the AI-driven processes employed within this repository, no further alterations will be introduced.
+
+
+
+
 # Gödel Numbering Framework for SAT Problems in Lean 4
 
 A comprehensive implementation demonstrating how to embed Boolean satisfiability (SAT) and 3-SAT problems into arithmetic using Gödel numbering techniques, implemented and formally verified in the Lean 4 theorem prover.
